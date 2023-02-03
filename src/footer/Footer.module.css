@@ -1,0 +1,35 @@
+.footerBlock {
+    min-height: 30vh;
+    background-color: #eaf1d4;
+    flex-wrap: wrap;
+}
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border:1px solid;
+    margin-top: -30px;
+    flex-wrap: wrap;
+}
+.logo{
+
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.icon{
+    height: 60px;
+    width: 60px;
+    background-color: #b5e2ff;
+}
+
+.footer{
+    margin-top: 25px;
+    font-size: 12px;
+    opacity: .6;
+
+}
