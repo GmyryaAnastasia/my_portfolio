@@ -10,9 +10,9 @@ const Project = (props) => {
             </div>
             <div>
                 <h2>{props.title}</h2>
-                <div>
+
                     <span>{props.description}</span>
-                </div>
+
             </div>
 
 
